@@ -69,4 +69,6 @@ Thanks to Oasis Infobyte for providing this task and learning opportunity.
 
 ## 📎 Author
 
-keerthika 
+*keerthika* | [View Project Post on LinkedIn](https://www.linkedin.com/posts/keerthika-sundeepkumar-195ab4316_python-tkinter-beginnerprojects-ugcPost-7451500814621147136-3t_i)
+
+
